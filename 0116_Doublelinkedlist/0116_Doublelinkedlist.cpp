@@ -149,6 +149,8 @@ void traverse()
 
 void revtraverse()
 {
+	if (listEmpty())
+		cout << "\nList is empty" << endl;
 
 }
 
