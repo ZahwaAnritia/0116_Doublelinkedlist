@@ -166,7 +166,10 @@ void revtraverse()
 	}
 }
 
+void searchData()
+{
 
+}
 int main() 
 {
 
