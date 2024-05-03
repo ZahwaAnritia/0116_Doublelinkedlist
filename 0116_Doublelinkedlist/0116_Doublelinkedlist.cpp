@@ -147,6 +147,11 @@ void traverse()
 	}
 }
 
+void revtraverse()
+{
+
+}
+
 
 int main() 
 {
